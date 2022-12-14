@@ -1,0 +1,11 @@
+[workspace]
+members = [
+    "01/rust/aoc_01",
+    "02/rust/aoc_02",
+    "03/rust/aoc_03",
+    "no_boilerplate_rust/nb14",
+    "no_boilerplate_rust/nb01",
+]
+
+[profile.release]
+
